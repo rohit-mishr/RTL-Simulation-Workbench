@@ -1,4 +1,3 @@
-```md
 # Verilog Simulator GUI
 
 A Java-based desktop application that provides a simple graphical interface for writing, compiling, simulating, and visualizing Verilog designs using the Icarus Verilog toolchain.
@@ -43,7 +42,7 @@ Make sure the following tools are installed and added to your system PATH:
 1. Compile the Java program:
    ```bash
    javac VerilogSimulatorGUI.java
-````
+   ```
 
 2. Run the application:
 
@@ -95,6 +94,3 @@ Make sure the following tools are installed and added to your system PATH:
 ## 👨‍💻 Author
 
 Rohit Mishra
-
-```
-```
